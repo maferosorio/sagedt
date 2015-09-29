@@ -1,0 +1,174 @@
+01_STATUS_FLD;Estatus de operacion de la maquina: Run=Corriendo Stop=Parada;Err:511;;18/09/15 10:22
+01_L30CFS  ;Número de arranques con fuego / Fired Starts Counter ;Err:511;;18/09/15 10:22
+01_L30CES;Número de paros de emergencia / Emergency Trips Counter ;Err:511;;18/09/15 10:22
+01_L30FT_T ;Horas de Operación / Total Fired Time Counter ;Err:511;HRS;18/09/15 10:22
+01_TNH;Velocidad de la turbina (Caballos de Fuerza) / HP Turbine Speed;Err:511;%;#ADDIN?
+01_TNH_RPM;Velocidad de la turbina (Revoluciones por minuto) / HP Turbine Speed (RPM);Err:511;RPM;18/09/15 10:22
+01_TNL ;Velocidad eje de baja presión  (Caballos de Fuerza) / LP shaft speed;Err:511;%;18/09/15 10:22
+01_TNL_RPM;Velocidad eje de baja presión (Revoluciones por minuto) / LP Speed RPM;Err:511;RPM;18/09/15 10:22
+01_TNRH;Velocidad eje de alta presión (Caballos de Fuerza) / HP Turbine Speed Reference;Err:511;HP;18/09/15 10:22
+01_TNR ;Velocidad de Referencia / Speed reference;Err:511;%;18/09/15 10:22
+01_FSR;Control arranque / FSR Startup Control;Err:511;%;18/09/15 10:22
+01_FQG;Flujo de gas combustible / Gas Fuel Flow ;Err:511;MMSCFD;18/09/15 10:22
+01_AFPCS;Presión de entrada del compresor axial / Axial compressor suction pressure;Err:511;"H2O""";18/09/15 10:22
+01_CPD;Presión de descarga del compresor axial / Compressor disch press transmitter;Err:511;PSI;#ADDIN?
+01_TSNZ         ;Posición de tobera de turbina / Turbine Nozzle Position;Err:511;DEG (°);18/09/15 10:22
+01_CTIM;Valor nominal temperatura de entrada de compresor / Compressor Inlet Temperature-Nominal Valu;Err:511;°F;18/09/15 10:22
+01_CSGV    ;Posición IGV abierto (DGA) / Open IGV Position ;Err:511;DEG (°);18/09/15 10:22
+01_CTD;Temperatura de descarga de compresor / Compressor Discharge Temperature ;Err:511;°F;18/09/15 10:22
+01_BB_MAX     ;Máxima vibración / Max Vibration ;Err:511;IPS;18/09/15 10:22
+01_A63PQ;Presión de aceite lubricante / Lube oil pressure normal ;Err:511;PSI;18/09/15 10:22
+01_A63GDF;Presion Final;Err:511;;18/09/15 10:22
+01_FI-0003;Flow Manejado (Calculado);Err:511;MMSCFD;18/09/15 10:22
+01_TT-XD-1;Termocupla de temperatura de gases de escape #1 / Exhaust temperature thermocouple #1  ;Err:511;°F;18/09/15 10:22
+01_TT-XD-2;Termocupla de temperatura de gases de escape #2 / Exhaust temperature thermocouple #2  ;Err:511;°F;18/09/15 10:22
+01_TT-XD-3;Termocupla de temperatura de gases de escape #3 / Exhaust temperature thermocouple #3                ;Err:511;°F;#ADDIN?
+01_T-XD-4;Termocupla de temperatura de gases de escape #4 / Exhaust temperature thermocouple #4;Err:511;°F;18/09/15 10:22
+01_T-XD-5;Termocupla de temperatura de gases de escape #5 / Exhaust temperature thermocouple #5                ;Err:511;°F;18/09/15 10:22
+01_T-XD-6;Termocupla de temperatura de gases de escape #6 / Exhaust temperature thermocouple #6                ;Err:511;°F;18/09/15 10:22
+01_T-XD-7;Termocupla de temperatura de gases de escape #7 / Exhaust temperature thermocouple #7  ;Err:511;°F;18/09/15 10:22
+01_T-XD-8;Termocupla de temperatura de gases de escape #8 / Exhaust temperature thermocouple #8 ;Err:511;°F;18/09/15 10:22
+01_T-XD-9;Termocupla de temperatura de gases de escape #9 / Exhaust temperature thermocouple #9                ;Err:511;°F;18/09/15 10:22
+01_T-XD-10;Termocupla de temperatura de gases de escape #10 / Exhaust temperature thermocouple #10;Err:511;°F;18/09/15 10:22
+01_T-XD-11;Termocupla de temperatura de gases de escape #11 / Exhaust temperature thermocouple #11;Err:511;°F;18/09/15 10:22
+01_T-XD-12;Termocupla de temperatura de gases de escape #12 / Exhaust temperature thermocouple #12               ;Err:511;°F;18/09/15 10:22
+01_T-XD-13;Termocupla de temperatura de gases de escape #13 /Exhaust temperature thermocouple #13 ;Err:511;°F;#ADDIN?
+01_TTXM ;Temperatura de gases de escape corregida por promedio / Ex Temp Median Corrected by Average ;Err:511;°F;18/09/15 10:22
+01_TTRXB;Referencia de control de temperatura / Temperature Control Reference ;Err:511;°F;18/09/15 10:22
+01_TTXSP1    ;Expansión actual monitor de combustión 1 (Maximo diferencial) / Combustion Monitor Actual Spread 1 ;Err:511;°F;18/09/15 10:22
+01_TTWS1FI1;Temperatura de 1era etapa delantera (entrada) / Turbine temperature-wheelspace 1st stg fwd inner;Err:511;°F;18/09/15 10:22
+01_TTWS1FI2;Temperatura de 1era etapa delantera (entrada) /Turbine temperature-wheelspace 1st stg fwd inner;Err:511;°F;18/09/15 10:22
+01_TTWS1AO1;Temperatura de 1era etapa posterior (salida) / Turbine temperature-wheelspace 1st stg aft outer ;Err:511;°F;#ADDIN?
+01_TTWS1AO2;Temperatura de 1era etapa posterior (salida)  / Turbine temperature-wheelspace 1st stg aft outer;Err:511;°F;18/09/15 10:22
+01_TTWS2FO1;Temperatura de 2da etapa delantera (salida) / Turbine temperature-wheelspace 2nd stg fwd outer;Err:511;°F;18/09/15 10:22
+01_TTWS2FO2;Temperatura de 2da etapa delantera (salida) /Turbine temperature-wheelspace 2nd stg fwd outer;Err:511;°F;18/09/15 10:22
+01_TTWS2AO1;Temperatura de 2da etapa posterior (salida) / Turbine temperature-wheelspace 2nd stg aft outer   ;Err:511;°F;18/09/15 10:22
+01_TTWS2AO2 ;Temperatura de 2da etapa posterior (salida) / Turbine temperature-wheelspace 2nd stg aft outer ;Err:511;°F;18/09/15 10:22
+01_MAXDIF;Máximo Diferencial;Err:511;°F;18/09/15 10:22
+01_LTTH1;Temperatura del Cabezal de Lubricación / Lube oil header temperature                        ;Err:511;°F;18/09/15 10:22
+01_LTBT1D;Temp de aceite de drenaje cojinete de empuje #1 / Turbine thrust bearing #1 drain oil temperature;Err:511;°F;18/09/15 10:22
+01_LTB1D;Temp de aceite de drenaje cojinete #1 / Turbine bearing #1 drain oil temperature  ;Err:511;°F;#ADDIN?
+01_LTB2D;Temp de aceite de drenaje cojinete #2 / Turbine bearing #2 drain oil temperature ;Err:511;°F;18/09/15 10:22
+01_LTB3D;Temp de aceite de drenaje cojinete #3 / Turbine bearing #3 drain oil temperature   ;Err:511;°F;18/09/15 10:22
+01_LTB4D;Temp de aceite de drenaje cojinete #4 / Turbine bearing #4 drain oil temperature;Err:511;°F;18/09/15 10:22
+01_BTTA1_1_S ;Temp metal cojinete empuje #1 (lado activo) / Turb.thrust bearing #1 act. side metal temper.#1 ;Err:511;°F;18/09/15 10:22
+01_BTTA1_2_S;Temp metal cojinete empuje #1 (lado activo) / Turb.thrust bearing #1 act. side metal temper.#2 ;Err:511;°F;18/09/15 10:22
+01_BTTI1_1_R;Temp metal cojinete empuje #1 (lado inactivo) / Turb.thrust bearing #1 inact. side metal temper.#1;Err:511;°F;#ADDIN?
+01_BTTI1_2_R;Temp metal cojinete empuje #1 (lado inactivo) / Turb.thrust bearing #1 inact. side metal temper.#2 ;Err:511;°F;18/09/15 10:22
+01_BTJ1_1_R;Temp metal cojinete empuje #1 (radial) / Turb.journal bearing #1 metal temper.#1;Err:511;°F;18/09/15 10:22
+01_BTJ1_2_R;Temp metal cojinete empuje #1 (radial) / Turb.journal bearing #1 metal temper.#2   ;Err:511;°F;18/09/15 10:22
+01_BTTI4_1_S;Temp metal cojinete empuje #4 (lado inactivo) / Turb.thrust bearing #4 inact. side metal temper.#1 ;Err:511;°F;18/09/15 10:22
+01_BTTI4_2_S;Temp metal conjinete empuje #4 (lado inactivo) Turb.thrust bearing #4 inact. side metal temper.#2 ;Err:511;°F;18/09/15 10:22
+01_BTTA4_1_T;Temp metal cojinete empuje #4 (lado activo) / Turb.thrust bearing #4 act. side metal temper.#1;Err:511;°F;18/09/15 10:22
+01_BTTA4_2_T;Temp metal cojinete empuje #4 (lado activo) / Turb.thrust bearing #4 act. side metal temper.#2 ;Err:511;°F;#ADDIN?
+01_BTJ4_1_T ;Temp metal cojinete empuje #1 (radial) / Turb.journal bearing #4 metal temper.#1 ;Err:511;°F;18/09/15 10:22
+01_BTJ4_2_T;Temp metal cojinete empuje #4  (radial) / Turb.journal bearing #4 metal temper.#2 ;Err:511;°F;18/09/15 10:22
+01_BB1;Sensor de Vibración (Cojinete #1) / Vibration sensor;Err:511;IN/S;18/09/15 10:22
+01_BB2;Sensor de Vibración (Cojinete #1) / Vibration sensor ;Err:511;IN/S;18/09/15 10:22
+01_BB4;Sensor de Vibración (Cojinete #4) / Vibration sensor;Err:511;IN/S;#ADDIN?
+01_BB5;Sensor de Vibración (Cojinete #4) / Vibration sensor;Err:511;IN/S;18/09/15 10:22
+01_FTG  ;Transmisor temp de succión de gas combustible / Fuel gas suction temperature transmitter  ;Err:511;°F;18/09/15 10:22
+01_FPG3 ;Transmisor presión de succión de gas combustible / Fuel gas suction pressure transmitter ;Err:511;PSI;18/09/15 10:22
+01_FDG1 ;transmisor de flujo de succion de gas combustible / Fuel gas suction flow transmitter   ;Err:511;"DP H20""";#ADDIN?
+01_USI-0001 ;Velocidad del compresor / Compressors Speed ;Err:511;RPM;18/09/15 10:22
+01_A63GS1  ;Presión de succión de compresor de 1era etapa / Proc.compr.1st st.suction gas pressure ;Err:511;PSI;18/09/15 10:22
+01_A26GS1;Temperatura de succión de compresor de 1era etapa / Proc.compr.1st stage suction gas temperature Tx ;Err:511;°F;#ADDIN?
+01_A63GD1  ;Presión de descarga de compresor de 1era etapa / Proc.compr.1st stage disharge pressure  ;Err:511;PSI;18/09/15 10:22
+01_A26GD1 ;Temperatura de descarga de compresor de 1era etapa / Proc.compr.1st stage discharge gas temperature Tx ;Err:511;°F;18/09/15 10:22
+01_FI-0003;Flujo de gas manejado / Process compressors flow ;Err:511;MMACFD;#ADDIN?
+01_A63GF1 ;Presión diferencial filtros compr 1era etapa / Proc.compr.1st st.filter diff.press.trans. ;Err:511;;#ADDIN?
+01_A63GS2;Presión de succión de compresor de 2da etapa / Proc.compr.2nd st.suction gas pressure ;Err:511;PSI;18/09/15 10:22
+01_A26GS2;Temperatura de succión de compresor de 2da etapa / Proc.compr.2nd stage suction gas temperature Tx ;Err:511;°F;#ADDIN?
+01_A63GD2 ;Presión de descarga de compresor de 2da etapa / Proc.compr.2nd stage disharge pressure  ;Err:511;PSI;#ADDIN?
+01_A26GD2 ;Temperatura de descarga de compresor de 2da etapa / Proc.compr.2nd stage discharge gas temperature Tx ;Err:511;°F;#ADDIN?
+01_A63GF2;Presión diferencial filtros compr 2da etapa / Proc.compr.2nd.filter diff.press.trans.;Err:511;;#ADDIN?
+01_A63GS3;Presión de succión de compresor de 3ra etapa / Proc.compr.3ra st.suction gas pressure ;Err:511;PSI;#ADDIN?
+01_A26GS3;Temperatura de succión de compresor de 3ra etapa / Proc.compr.3rd stage suction gas temperature Tx ;Err:511;°F;#ADDIN?
+01_A63GD3;Presión de descarga de compresor de 3ra etapa / Proc.compr.3rd stage disharge pressure  ;Err:511;PSI;#ADDIN?
+01_A26GD3;Temperatura de descarga de compresor de 3era etapa / Proc.compr.3rd stage discharge gas temperature Tx ;Err:511;°F;#ADDIN?
+01_A63GF3;Presión diferencial filtros compr 2da etapa / Proc.compr.3rd.filter diff.press.trans. ;Err:511;;#ADDIN?
+01_TI_0201;Coj. Radial eje baja vel. Lado compresor / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0202;Coj. Radial eje baja vel. Lado compresor / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0203;Coj. Empuje inactivo baja velocidad / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0204;Coj. Empuje inactivo baja velocidad / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0205;Coj. Empuje activo eje baja velocidad / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0206;Coj. Empuje activo eje baja velocidad / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0211;Coj. Empuje activo eje baja velocidad / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0207;Coj. Radial eje baja vel. lado turbina  / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0208;Coj. Radial eje baja vel. lado turbina / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0216;Coj. Radial lado turbina eje alta vel. / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0215;Coj. Radial lado turbina eje alta vel. / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0214;Coj. Empuje inactivo eje alta vel. / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0213;Coj. Empuje inactivo eje alta vel. / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0212;Coj. Empuje activo eje alta velocidad / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0209;Coj. Empuje activo eje alta velocidad / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0210;Coj. Empuje activo eje alta velocidad / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0218;Coj. Radial lado compresor eje alta vel. / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0217;Coj. Radial lado compresor eje alta vel. / Gear-box bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0219;Coj. Radial lado caja de engranaje / Compr. K-01  bearing temperature detector ;Err:511;°F;#ADDIN?
+01_TI_0220;Coj. Empuje lado  inactivo / Compr. K-01  bearing temperature detector ;Err:511;°F;#ADDIN?
+01_TI_0221;Coj. Empuje lado activo / Compr. K-01  bearing temperature detector ;Err:511;°F;#ADDIN?
+01_TI_0222;Coj. Empuje lado activo / Compr. K-01  bearing temperature detector ;Err:511;°F;#ADDIN?
+01_TI_0223;Coj. Radial lado caja de engranaje / Compr. K-01  bearing temperature detector ;Err:511;°F;#ADDIN?
+01_TI_0224;Coj. Radial lado comp. 2da etapa / Compr. K-01  bearing temperature detector ;Err:511;°F;#ADDIN?
+01_TI_0225;Coj. Radial lado comp. 2da etapa / Compr. K-01  bearing temperature detector ;Err:511;°F;#ADDIN?
+01_TI_0226;Coj. Empuje lado inactivo / Compr. K-01  bearing temperature detector ;Err:511;°F;#ADDIN?
+01_TI_0227;Coj. Empuje lado activo / Compr. K-01  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0228;Coj. Radial lado compresor 1era etapa / Compr. K-02  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0229;Coj. Empuje lado inactivo  / Compr. K-02  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0230;Coj. Empuje lado activo  / Compr. K-02  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0231;Coj. Empuje lado activo  / Compr. K-02  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0232;Coj. Radial lado compresor 1era etapa  / Compr. K-02  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0233;Coj. Radial lado compresor 3era etapa  / Compr. K-02  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0234;Coj. Radial lado compresor 3era etapa  / Compr. K-02  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0235;Coj. Empuje lado inactivo  / Compr. K-02  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0236;Coj. Empuje lado activo  / Compr. K-02  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0237;Coj. Radial lado compresor 2da etapa / Compr. K-03  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0238;Coj. Empuje lado inactivo / Compr. K-03  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0239;Coj. Empuje lado activo / Compr. K-03  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0240;Coj. Empuje lado activo / Compr. K-03  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0241;Coj. Radial lado compresor 2da etapa / Compr. K-03  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0242;Coj. Radial lado libre / Compr. K-03  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0243;Coj. Radial lado libre / Compr. K-03  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0244;Coj. Empuje lado inactivo / Compr. K-03  bearing temperature detector;Err:511;°F;#ADDIN?
+01_TI_0245;Coj. Empuje lado activo / Compr. K-03  bearing temperature detector;Err:511;°F;#ADDIN?
+01_SI_0112;Vib. Radial ta l/empuje  a.p (h) / Bearing #1 key-phasor proximitor;Err:511;mil pp;#ADDIN?
+01_SI_0113;Vib. Radial ta l/empuje  a.p (v) / Bearing #4 key-phasor proximitor;Err:511;mil pp;#ADDIN?
+01_SI_0114;Vib. Radial tb l/acople b.p (h) / Bearing #1 radial vibration (x axis);Err:511;mil pp;#ADDIN?
+01_SI_0115;Vib. Radial tb l/acople b.p (v) / Bearing #1 radial vibration (y axis);Err:511;mil pp;#ADDIN?
+01_SI_0116;"Desp.axial eje turbina alta presion ""a"" / Bearing #4 radial vibration (x axis)";Err:511;mil;#ADDIN?
+01_SI_0117;"Desp.axial eje turbina alta presion ""b""/ Bearing #4 radial vibration (x axis)";Err:511;mil;#ADDIN?
+01_SI_0118;"Desp.axial eje turbina baja presion ""a"" / Bearing #4 radial vibration (x axis)";Err:511;mil;#ADDIN?
+01_SI_0119;"Desp.axial eje turbina baja presion ""b"" / Bearing #4 radial vibration (x axis)";Err:511;mil;#ADDIN?
+01_XI_0201;Vib. Radial engra.l/acople turb. (h) /  Gear-box wheel shaft radial vibration proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0202;Vib. Radial engra.l/acople turb. (v) / Gear-box wheel shaft radial vibration proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0203;Vib. Radial engra.l/empuje baja.vel. (h) / Gear-box wheel shaft radial vibration proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0204;Vib. Radial engra.l/empuje baja.vel. (v) Gear-box wheel shaft radial vibration proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0208;Vib. Radial engra.l/acople comp. (v) / Gear-box pinion shaft radial vibration proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0207;Vib. Radial engra.l/acople comp. (h) / Gear-box pinion shaft radial vibration proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0206;Vib. Radial engra.l/empuje alta.vel. (v) / Gear-box pinion shaft radial vibration proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0205;Vib. Radial engra.l/empuje alta.vel. (h) / Gear-box pinion shaft radial vibration proximitor;Err:511;mil pp;#ADDIN?
+01_YI_0201;Acel. Base caja engranaje  alta.vel (g) / Gear-box casing acceleration proximitor (high speed);Err:511;g pk;#ADDIN?
+01_YI_0202;Acel. Base caja engranaje  baja.vel (g) / Gear-box casing acceleration proximitor (low speed);Err:511;g pk;#ADDIN?
+01_XI_0209;Vib. Radial comp.1era etapa l/ engra. (v) / Compr. K 01 shaft radial vibration  proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0210;Vib. Radial comp.1era etapa l/ engra. (h) / Compr. K 01 shaft radial vibration  proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0211;Vib. Radial comp.1era etapa l/ empuje. (v) / Compr. K 01 shaft radial vibration  proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0212;Vib. Radial comp.1era etapa l/ empuje. (h) / Compr. K 01 shaft radial vibration  proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0213;Vib. Radial comp.2da etapa l/ 1era.etapa (v)  / Compr. K 02 shaft radial vibration   proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0214;Vib. Radial comp.2da etapa l/ 1era.etapa. (h)  / Compr. K 02 shaft radial vibration   proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0215;Vib. Radial comp.2da etapa l/ empuje (v)  / Compr. K 02 shaft radial vibration   proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0216;Vib. Radial comp.2da etapa l/ empuje. (h)  / Compr. K 02 shaft radial vibration   proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0217;Vib. Radial comp.3era etapa l/ 2da.etapa (v) / Compr. K 03 shaft radial vibration   proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0218;Vib. Radial comp.3era etapa l/ 2da.etapa. (h) / Compr. K 03 shaft radial vibration   proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0219;Vib. Radial comp.3era etapa l/ empuje (v) / Compr. K 03 shaft radial vibration  proximitor;Err:511;mil pp;#ADDIN?
+01_XI_0220;Vib. Radial comp.3era etapa l/ empuje. (h) / Compr. K 03 shaft radial vibration   proximitor;Err:511;mil pp;#ADDIN?
+01_ZI_0201;Desp.axial engranaje l/ baja vel. / Gear-box wheel shaft axial displacement proximitor ;Err:511;mil;#ADDIN?
+01_ZI_0202;Desp.axial engranaje l/ baja.vel. / Gear-box wheel shaft axial displacement proximitor;Err:511;mil;#ADDIN?
+01_ZI_0203;Desp.axial engranaje l/ alta. Vel. / Gear-box pinion shaft axial displacement proximitor;Err:511;mil;#ADDIN?
+01_ZI_0204;Desp.axial engranaje l/ alta.vel. / Gear-box pinion shaft axial displacement proximitor;Err:511;mil;#ADDIN?
+01_ZI_0205;Desp.axial eje comp. 1era etapa. / Compr. K 01 shaft axial displacement  proximitor;Err:511;mil;#ADDIN?
+01_ZI_0206;Desp.axial eje comp. 1era etapa. / Compr. K 01 shaft axial displacement  proximitor;Err:511;mil;#ADDIN?
+01_ZI_0207;Desp.axial eje comp. 2era etapa. / Compr. K 02 shaft axial displacement  proximitor;Err:511;mil;#ADDIN?
+01_ZI_0208;Desp.axial eje comp. 2era etapa. / Compr. K 02 shaft axial displacement  proximitor;Err:511;mil;#ADDIN?
+01_ZI_0209;Desp.axial eje comp. 3era etapa. / Compr. K 03 shaft axial displacement  proximitor;Err:511;mil;#ADDIN?
+01_ZI_0210;Desp.axial eje comp. 3era etapa. / Compr. K 03 shaft axial displacement  proximitor;Err:511;mil;#ADDIN?
